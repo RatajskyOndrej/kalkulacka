@@ -1,0 +1,3 @@
+C:/Users/siron/CLionProjects/Ratajsky_kalkulacka/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/siron/CLionProjects/Ratajsky_kalkulacka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/siron/CLionProjects/Ratajsky_kalkulacka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
