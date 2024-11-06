@@ -74,7 +74,7 @@ int main() {
                 /* Pro operaci modulo musi byt obě cisla celociselna (int), proto je pretypujeme a zmenime z float na int*/
                 int rest = (int)num1 % (int)num2;  /* Prevedeme oba operandy na cele cislo (int) pro modulo */
                 /* Výsledek vypíšeme jako celé číslo */
-                printf("Vysledek: Zbytek po deleni %d %% %d = %d\n", (int)num1, (int)num2, zbytek);
+                printf("Vysledek: Zbytek po deleni %d %% %d = %d\n", (int)num1, (int)num2, rest);
             } else {
                 /* Chyba: deleni nulou neni mozne, zobrazime chybovou hlasku */
                 printf("Chyba: Deleni nulou neni povoleno.\n");
